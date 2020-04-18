@@ -114,10 +114,5 @@ void loop()
   digitalWrite(8, LOW);
   delay(100);
 
-
-
-
-
-
   Serial.println("loop completed");
 }
